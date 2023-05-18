@@ -1,6 +1,7 @@
+<h1 align="center">Lucas Angelo</h1>
+<h3 align="center">Data Engineering is my passion 🐈</h3>
 
-## 🤙🏽 _What's Up ! I’m Lucas Angelo_ 
-- :house: From Espirito Santo, :brazil:.
+- :house: From Vila Velha - ES, Brazil.
 - :books: Currently learning **PySpark** and **Airflow**
 - 📫 Follow me on [Linkedin](https://www.linkedin.com/in/lucas-angelop/) , [Instagram](https://www.instagram.com/lucas.angelop/) or [Twitter](https://twitter.com/Lucangelop)
 
